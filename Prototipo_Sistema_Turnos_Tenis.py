@@ -4,7 +4,7 @@ import random
 import string
 
 
-#LINEA OFICIAL DEL SPRINT(MAIN9)
+# comentario desde YENIFER
 
 app = Flask(__name__)
 app.secret_key = "clave_secreta_demo"
